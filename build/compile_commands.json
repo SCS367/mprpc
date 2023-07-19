@@ -1,0 +1,62 @@
+[
+{
+  "directory": "/home/scs1/桌面/mprpc/build/src",
+  "command": "/usr/bin/g++     -g -std=c++11 -fPIC -g -I/home/scs1/桌面/mprpc/src/include -I/home/scs1/桌面/mprpc/example    -o CMakeFiles/mprpc.dir/logger.cc.o -c /home/scs1/桌面/mprpc/src/logger.cc",
+  "file": "/home/scs1/桌面/mprpc/src/logger.cc"
+},
+{
+  "directory": "/home/scs1/桌面/mprpc/build/src",
+  "command": "/usr/bin/g++     -g -std=c++11 -fPIC -g -I/home/scs1/桌面/mprpc/src/include -I/home/scs1/桌面/mprpc/example    -o CMakeFiles/mprpc.dir/mprpcchannel.cc.o -c /home/scs1/桌面/mprpc/src/mprpcchannel.cc",
+  "file": "/home/scs1/桌面/mprpc/src/mprpcchannel.cc"
+},
+{
+  "directory": "/home/scs1/桌面/mprpc/build/src",
+  "command": "/usr/bin/g++     -g -std=c++11 -fPIC -g -I/home/scs1/桌面/mprpc/src/include -I/home/scs1/桌面/mprpc/example    -o CMakeFiles/mprpc.dir/mprpccontroller.cc.o -c /home/scs1/桌面/mprpc/src/mprpccontroller.cc",
+  "file": "/home/scs1/桌面/mprpc/src/mprpccontroller.cc"
+},
+{
+  "directory": "/home/scs1/桌面/mprpc/build/src",
+  "command": "/usr/bin/g++     -g -std=c++11 -fPIC -g -I/home/scs1/桌面/mprpc/src/include -I/home/scs1/桌面/mprpc/example    -o CMakeFiles/mprpc.dir/zookeeperutil.cc.o -c /home/scs1/桌面/mprpc/src/zookeeperutil.cc",
+  "file": "/home/scs1/桌面/mprpc/src/zookeeperutil.cc"
+},
+{
+  "directory": "/home/scs1/桌面/mprpc/build/src",
+  "command": "/usr/bin/g++     -g -std=c++11 -fPIC -g -I/home/scs1/桌面/mprpc/src/include -I/home/scs1/桌面/mprpc/example    -o CMakeFiles/mprpc.dir/mprpcapplication.cc.o -c /home/scs1/桌面/mprpc/src/mprpcapplication.cc",
+  "file": "/home/scs1/桌面/mprpc/src/mprpcapplication.cc"
+},
+{
+  "directory": "/home/scs1/桌面/mprpc/build/src",
+  "command": "/usr/bin/g++     -g -std=c++11 -fPIC -g -I/home/scs1/桌面/mprpc/src/include -I/home/scs1/桌面/mprpc/example    -o CMakeFiles/mprpc.dir/rpcheader.pb.cc.o -c /home/scs1/桌面/mprpc/src/rpcheader.pb.cc",
+  "file": "/home/scs1/桌面/mprpc/src/rpcheader.pb.cc"
+},
+{
+  "directory": "/home/scs1/桌面/mprpc/build/src",
+  "command": "/usr/bin/g++     -g -std=c++11 -fPIC -g -I/home/scs1/桌面/mprpc/src/include -I/home/scs1/桌面/mprpc/example    -o CMakeFiles/mprpc.dir/rpcprovider.cc.o -c /home/scs1/桌面/mprpc/src/rpcprovider.cc",
+  "file": "/home/scs1/桌面/mprpc/src/rpcprovider.cc"
+},
+{
+  "directory": "/home/scs1/桌面/mprpc/build/src",
+  "command": "/usr/bin/g++     -g -std=c++11 -fPIC -g -I/home/scs1/桌面/mprpc/src/include -I/home/scs1/桌面/mprpc/example    -o CMakeFiles/mprpc.dir/mprpcconfig.cc.o -c /home/scs1/桌面/mprpc/src/mprpcconfig.cc",
+  "file": "/home/scs1/桌面/mprpc/src/mprpcconfig.cc"
+},
+{
+  "directory": "/home/scs1/桌面/mprpc/build/example/callee",
+  "command": "/usr/bin/g++     -g -std=c++11 -fPIC -g -I/home/scs1/桌面/mprpc/src/include -I/home/scs1/桌面/mprpc/example    -o CMakeFiles/provider.dir/friendservice.cc.o -c /home/scs1/桌面/mprpc/example/callee/friendservice.cc",
+  "file": "/home/scs1/桌面/mprpc/example/callee/friendservice.cc"
+},
+{
+  "directory": "/home/scs1/桌面/mprpc/build/example/callee",
+  "command": "/usr/bin/g++     -g -std=c++11 -fPIC -g -I/home/scs1/桌面/mprpc/src/include -I/home/scs1/桌面/mprpc/example    -o CMakeFiles/provider.dir/__/friend.pb.cc.o -c /home/scs1/桌面/mprpc/example/friend.pb.cc",
+  "file": "/home/scs1/桌面/mprpc/example/friend.pb.cc"
+},
+{
+  "directory": "/home/scs1/桌面/mprpc/build/example/caller",
+  "command": "/usr/bin/g++     -g -std=c++11 -fPIC -g -I/home/scs1/桌面/mprpc/src/include -I/home/scs1/桌面/mprpc/example    -o CMakeFiles/consumer.dir/callfriendservice.cc.o -c /home/scs1/桌面/mprpc/example/caller/callfriendservice.cc",
+  "file": "/home/scs1/桌面/mprpc/example/caller/callfriendservice.cc"
+},
+{
+  "directory": "/home/scs1/桌面/mprpc/build/example/caller",
+  "command": "/usr/bin/g++     -g -std=c++11 -fPIC -g -I/home/scs1/桌面/mprpc/src/include -I/home/scs1/桌面/mprpc/example    -o CMakeFiles/consumer.dir/__/friend.pb.cc.o -c /home/scs1/桌面/mprpc/example/friend.pb.cc",
+  "file": "/home/scs1/桌面/mprpc/example/friend.pb.cc"
+}
+]
